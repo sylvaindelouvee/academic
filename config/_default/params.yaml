@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: night
+day_night: false
 font: ''
 font_size: L
 
@@ -16,19 +16,19 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: '@sylvaindelouvee'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: sylvain.delouvee@univ-rennes2.fr
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
   postcode: '94305'
-  country: United States
-  country_code: US
+  country: France
+  country_code: FR
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
