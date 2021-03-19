@@ -1,5 +1,5 @@
 ---
-role: Associate Professor - Maître de conférences (HDR)
+role: Maître de conférences (HDR)
 avatar_filename: avatar.png
 bio: ""
 interests:
@@ -59,7 +59,7 @@ education:
       year: 2008
 superuser: true
 highlight_name: false
-title: Sylvain Delouvée
+title: Associate Professor
 email: ""
 ---
 Social Psychologist (Associate Professor - Maître de conférences HDR) at Rennes 2 University. My research topics are focused on collective beliefs and social thought. I am particularly interested in behaviours and conduct known as irrational through conspiracy theories and rumours, collective memory and social representations, collective fears and social identity, common sense and lay knowledge. 
