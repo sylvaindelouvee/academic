@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Authorization to conduct research (HDR)
+  - title: Authorization to conduct research - Habilitation à diriger des recherches (HDR)
     company: University of Nîmes
     company_url: 'http://www.unimes.fr'
     location: France
     date_start: '2017-06-09'
-    date_end: ''
+    date_end: '2017-06-09'
     description: |2-
         Responsibilities include:
         
