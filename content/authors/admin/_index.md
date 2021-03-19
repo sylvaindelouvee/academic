@@ -45,9 +45,10 @@ organizations:
     url: https://www.univ-rennes2.fr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: " Authorization to conduct research - Habilitation à diriger des
+        recherches (HDR)"
+      institution: University of Nîmes
+      year: 2017
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
