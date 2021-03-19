@@ -1,8 +1,11 @@
 ---
 role: Associate Professor - Maître de conférences (HDR)
 avatar_filename: profil.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research topics are focused on collective beliefs and social thought. I
+  am particularly interested in behaviours and conduct known as irrational
+  through conspiracy theories and rumours, collective memory and social
+  representations, collective fears and social identity, common sense and lay
+  knowledge.
 interests:
   - Social Representations
   - Collective Beliefs
