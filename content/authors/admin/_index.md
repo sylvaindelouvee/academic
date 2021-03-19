@@ -54,20 +54,6 @@ education:
     - course: Ph.D. in Social Psychology / Doctorat en psychologie sociale
       institution: Université Paris 5
       year: 2005
-    - course: International Diploma in Psycho-Social Action Science / Diplôme
-        International en Science-Action Psycho-Sociale
-      institution: Centre de Dynamique des Groupes et d'Analyse Institutionnelle
-      year: 2005
-    - course: European Diploma of Advanced Studies in Social Psychology / Diplôme
-        Européen d’Études Avancées en Psychologie Sociale
-      institution: Université Paris 5
-      year: 2005
-    - course: License of Psychology
-      year: 1998
-      institution: Université de Poitiers
-    - course: License of Sociology
-      institution: Université de Poitiers
-      year: 1998
 superuser: true
 highlight_name: false
 title: Associate Professor
