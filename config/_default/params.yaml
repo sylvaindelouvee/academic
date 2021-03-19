@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: dark
 day_night: false
 font: ''
 font_size: L
@@ -61,7 +61,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
@@ -70,7 +70,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: fr
 
 # Site features
 
@@ -109,7 +109,7 @@ abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
-  shape: circle
+  shape: square
 publications:
   date_format: January 2006
   citation_style: apa
