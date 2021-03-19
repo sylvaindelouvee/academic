@@ -6,7 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Social Representations
   - Collective Beliefs
-  - Risk
+  - Risk Psychology
   - Conspiracy Theories
   - Rumors
   - Radicalisation
