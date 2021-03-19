@@ -1,11 +1,7 @@
 ---
 role: Associate Professor - Maître de conférences (HDR)
 avatar_filename: profil.png
-bio: My research topics are focused on collective beliefs and social thought. I
-  am particularly interested in behaviours and conduct known as irrational
-  through conspiracy theories and rumours, collective memory and social
-  representations, collective fears and social identity, common sense and lay
-  knowledge.
+bio: ""
 interests:
   - Social Representations
   - Collective Beliefs
@@ -66,9 +62,6 @@ highlight_name: false
 title: Sylvain Delouvée
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Social Psychologist (Associate Professor - Maître de conférences HDR) at Rennes 2 University. My research topics are focused on collective beliefs and social thought. I am particularly interested in behaviours and conduct known as irrational through conspiracy theories and rumours, collective memory and social representations, collective fears and social identity, common sense and lay knowledge. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
