@@ -1,6 +1,6 @@
 ---
 role: Associate Professor - Maître de conférences (HDR)
-avatar_filename: profil.png
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Social Representations
