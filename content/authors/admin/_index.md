@@ -64,4 +64,6 @@ email: ""
 ---
 Social Psychologist (Associate Professor - Maître de conférences HDR) at Rennes 2 University. My research topics are focused on collective beliefs and social thought. I am particularly interested in behaviours and conduct known as irrational through conspiracy theories and rumours, collective memory and social representations, collective fears and social identity, common sense and lay knowledge. 
 
+> Social Psychologist (Associate Professor - Maître de conférences HDR) at Rennes 2 University. My research topics are focused on collective beliefs and social thought. I am particularly interested in behaviours and conduct known as irrational through conspiracy theories and rumours, collective memory and social representations, collective fears and social identity, common sense and lay knowledge. 
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
