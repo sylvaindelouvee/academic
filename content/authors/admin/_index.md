@@ -47,7 +47,7 @@ organizations:
     url: https://www.univ-rennes2.fr/
 education:
   courses:
-    - course: " Authorization to conduct research - Habilitation à diriger des
+    - course: " Authorization to conduct research / Habilitation à diriger des
         recherches (HDR)"
       institution: University of Nîmes
       year: 2017
