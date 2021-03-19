@@ -61,6 +61,6 @@ email: ""
 ---
 # **Sylvain DELOUVÉE**
 
-Social Psychologist (Associate Professor - Maître de conférences HDR) at Rennes 2 University. My research topics are focused on collective beliefs and social thought. I am particularly interested in behaviours and conduct known as irrational through conspiracy theories and rumours, collective memory and social representations, collective fears and social identity, common sense and lay knowledge. 
+Social Psychologist (Associate Professor) at Rennes 2 University. My research topics are focused on collective beliefs and social thought. I am particularly interested in behaviours and conduct known as irrational through conspiracy theories and rumours, collective memory and social representations, collective fears and social identity, common sense and lay knowledge. 
 
 > Psychologue sociale (Maître de conférences HDR) à l'Université Rennes 2. Mes thèmes de recherche portent sur les croyances collectives et la pensée sociale. Je m'intéresse particulièrement aux comportements et conduites dits irrationnels à travers les théories du complot et les rumeurs, la mémoire collective et les représentations sociales, les peurs collectives et l'identité sociale, le sens commun et le savoir profane.
